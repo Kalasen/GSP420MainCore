@@ -9,9 +9,44 @@
   <RecentFiles>
     <RecentFiles>
       <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:stdafx.cpp" caret="0" fromTop="0" />
-      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:GSP420MainCore.cpp" caret="160" fromTop="8" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:CoreManager.h" caret="14" fromTop="1" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:CoreManager.cpp" caret="81" fromTop="4" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:StateManager.cpp" caret="4283" fromTop="28" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:StateManager.h" caret="518" fromTop="13" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:GSP420MainCore.cpp" caret="248" fromTop="5" />
     </RecentFiles>
-    <RecentEdits />
+    <RecentEdits>
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:StateManager.cpp" caret="2286" fromTop="28" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:StateManager.cpp" caret="1568" fromTop="12" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:StateManager.h" caret="616" fromTop="8" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:StateManager.cpp" caret="1645" fromTop="20" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:StateManager.h" caret="123" fromTop="2" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:StateManager.cpp" caret="859" fromTop="6" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:StateManager.cpp" caret="2835" fromTop="10" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:StateManager.cpp" caret="2918" fromTop="25" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:StateManager.cpp" caret="2692" fromTop="17" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:StateManager.cpp" caret="3806" fromTop="15" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:StateManager.cpp" caret="4040" fromTop="22" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:StateManager.cpp" caret="4174" fromTop="18" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:StateManager.h" caret="450" fromTop="11" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:StateManager.cpp" caret="1124" fromTop="13" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:StateManager.cpp" caret="1775" fromTop="23" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:StateManager.cpp" caret="3116" fromTop="13" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:StateManager.cpp" caret="3166" fromTop="17" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:StateManager.cpp" caret="3440" fromTop="19" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:StateManager.cpp" caret="3696" fromTop="17" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:StateManager.cpp" caret="3362" fromTop="15" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:StateManager.cpp" caret="3990" fromTop="19" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:StateManager.cpp" caret="1875" fromTop="23" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:StateManager.cpp" caret="2055" fromTop="31" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:GSP420MainCore.cpp" caret="625" fromTop="16" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:GSP420MainCore.cpp" caret="248" fromTop="5" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:GSP420MainCore.cpp" caret="343" fromTop="10" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:GSP420MainCore.cpp" caret="75" fromTop="0" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:StateManager.h" caret="371" fromTop="4" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:CoreManager.cpp" caret="126" fromTop="6" />
+      <File id="676F70AC-F5C6-4125-AA16-55254723D855/f:StateManager.cpp" caret="452" fromTop="3" />
+    </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
     <NAntPath value="" />
